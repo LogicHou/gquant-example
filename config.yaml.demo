@@ -1,0 +1,15 @@
+account:
+  access_key: "ACCESS KEY"
+  secret_key: "SECRET KEY"
+market:
+  platform: "binance"
+  symbol: "ETHUSDT"
+  interval: "15m"
+  leverage: 3
+  kline_range: 201
+  margin: 0.00
+  margin_ratio: 98.00
+  margin_floor: 0.00
+pid:
+  tp_pos_qty: 1
+  cross_offset: 0
